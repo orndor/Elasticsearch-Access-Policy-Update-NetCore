@@ -1,4 +1,4 @@
-# Elasticsearch-access-policy-update **Now in C#!**
+# Elasticsearch-access-policy-update...**Now in C#!**
 ![Diagram of Function](https://orndor.com/wp-content/uploads/2019/01/ElasticSearchArch-1.png)
 ## AWS Lambda Function which updates an AWS Elasticsearch Access Policy with specific instance IP
 
